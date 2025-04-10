@@ -16,15 +16,32 @@
 </tr></tbody></table>
 }}
 
-
 == About Her
 
-Wanning Ding is a Ph.D. student in the FSSL Lab of Computer Science at Syracuse University, under the guidance of Dr. Yuzhe Tang. She earned her B.E. from East China Normal University and her M.S. in Computer Science from Syracsue University. Her research centers on blockchain security, with a focus on improving the resilience of decentralized systems against attacks such as asymmetric mempool DoS and optimizing blockchain transaction processes.
+Wanning Ding is a Ph.D. student in the FSSL Lab of Computer Science at Syracuse University, advised by Dr. Yuzhe Tang. She earned her B.E. from East China Normal University and her M.S. in Computer Science from Syracuse University. Her research focuses on blockchain security, particularly improving the resilience of decentralized systems against asymmetric mempool DoS attacks and optimizing transaction processing.
 
-Wanning has published papers in top-tier venues, including IEEE S&P and USENIX Security, where her work on the SAFERAD framework has contributed significantly to the field of blockchain security. Actively seeking internship opportunities for 2025, she aims to expand her expertise in security research and contribute to cutting-edge projects in the industry.
+Her work has been published in top-tier venues including IEEE S&P and USENIX Security. Notably, her SAFERAD framework contributed significantly to enhancing Ethereum’s mempool security. Wanning is actively seeking research internship opportunities for 2025 to deepen her expertise and collaborate on impactful projects in security.
+
+== News
+
+* **March 2025**: Won **1st Place** at the ECS Research Day for presenting my blockchain security research.  
+* **March 2025**: Accepted an internship offer from **Chainlink Labs** for Summer 2025.
 
 == Publications
-
+- {{<b>S&P'25</b>}}: &ldquo;Asymmetric Mempool DoS Security: Formal Definitions and Provable Secure Designs&rdquo;, AR=14.2%, *Wanning Ding*, Yuzhe Tang, Yibo Wang
 - {{<b>USENIX Security'24</b>}}: "Understanding Ethereum Mempool Security under Asymmetric DoS by Symbolized Stateful Fuzzing", AR=14.5%, Yibo Wang, Yuzhe Tang, Kai Li, *Wanning Ding*, Zhihua Yang. [https://www.usenix.org/conference/usenixsecurity24/presentation/wang-yibo \[pdf\]],[https://docs.google.com/presentation/d/1aNOTQvB3_MRjV06rTBrlFuS-J4S-JQkTEf4A4Kat_pM/edit?usp=sharing \[slides\]]
 - {{<b>Euro S&P'23</b>}}: "Understanding the Security Risks of Decentralized Exchanges by Uncovering Unfair Trades in the Wild", AR=35.7%,Jiaqi Chen,Yibo Wang,Yuxuan Zhou,*Wanning Ding* , Yuzhe Tang, X. Wang,Kai Li. [https://arxiv.org/abs/2401.11547 \[preprint\]], [https://docs.google.com/presentation/d/1u9pjArFqbiQDoGr2yIUc9fndJ-Z_Vr2YfmqNNwwPSLY/edit?usp=sharing \[slides\]],[https://docs.google.com/presentation/d/1NI96D1VtWG_TvvRQIHCXOTFS24TxZee4SqytfMyIAtA/edit?usp=sharing \[2-page slides\]]
+
+== Service
+
+* **USENIX Security AE Reviewer**, 2025
+
+== Affiliations
+
+* FSSL Lab ([GitHub](https://github.com/syracuse-fullstacksecurity))
+* Member, Syracuse Blockchain Club
+
+== Contact
+
+Feel free to reach out via email or connect with me on GitHub, LinkedIn, or Twitter.
 
